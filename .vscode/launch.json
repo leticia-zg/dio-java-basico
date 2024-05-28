@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
             "name": "Launch Usuario",
             "request": "launch",
             "mainClass": "Usuario",

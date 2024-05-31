@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
             "name": "Launch ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",

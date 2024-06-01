@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExcecaoCustomizada",
+            "request": "launch",
+            "mainClass": "ExcecaoCustomizada",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatadorDeCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorDeCepExemplo",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
             "name": "Launch ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",

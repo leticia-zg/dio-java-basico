@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "sistema-smart-tv/src",
+        "ContaBanco/src"
+    ]
+}

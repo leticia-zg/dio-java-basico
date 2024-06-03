@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "ProcessoSeletivo",
+            "projectName": "dio-java-basico_fcbfad77"
+        },
+        {
+            "type": "java",
             "name": "Launch ExcecaoCustomizada",
             "request": "launch",
             "mainClass": "ExcecaoCustomizada",
